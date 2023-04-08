@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/smart-search/pom.xml" />
         <option value="$PROJECT_DIR$/smart-search/es-service/pom.xml" />
         <option value="$PROJECT_DIR$/smart-search/lucene/pom.xml" />
+        <option value="$PROJECT_DIR$/data-struct/pom.xml" />
+        <option value="$PROJECT_DIR$/nginx/pom.xml" />
       </list>
     </option>
   </component>
