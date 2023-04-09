@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lucene" />
+        <module name="proxy" />
         <module name="order-service" />
         <module name="data-struct" />
         <module name="nginx" />
@@ -23,6 +24,7 @@
       <module name="lucene" options="-parameters" />
       <module name="nginx" options="-parameters" />
       <module name="order-service" options="-parameters" />
+      <module name="proxy" options="-parameters" />
       <module name="smart-search" options="" />
     </option>
   </component>
