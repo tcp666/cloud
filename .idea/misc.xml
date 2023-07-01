@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/data-struct/pom.xml" />
         <option value="$PROJECT_DIR$/nginx/pom.xml" />
         <option value="$PROJECT_DIR$/proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
       </list>
     </option>
   </component>

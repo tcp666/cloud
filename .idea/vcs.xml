@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data-struct" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/nginx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/order-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/proxy" vcs="Git" />
