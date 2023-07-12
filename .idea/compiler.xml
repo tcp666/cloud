@@ -25,7 +25,7 @@
       <module name="data-struct" options="-parameters" />
       <module name="es-service" options="-parameters" />
       <module name="lucene" options="-parameters" />
-      <module name="nginx" options="-parameters" />
+      <module name="nginx" options="" />
       <module name="order-service" options="-parameters" />
       <module name="proxy" options="-parameters" />
       <module name="smart-search" options="" />
