@@ -13,8 +13,8 @@
         <module name="nginx" />
         <module name="es-service" />
         <module name="lucene" />
+        <module name="wechat-im" />
         <module name="order-service" />
-        <module name="netty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
