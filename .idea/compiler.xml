@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="proxy" />
+        <module name="data-struct" />
+        <module name="nginx" />
+        <module name="es-service" />
+        <module name="lucene" />
+        <module name="wechat-im" />
+        <module name="order-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud" options="" />
+      <module name="data-struct" options="-parameters" />
+      <module name="es-service" options="-parameters" />
+      <module name="lucene" options="-parameters" />
+      <module name="nginx" options="" />
+      <module name="order-service" options="-parameters" />
+      <module name="proxy" options="-parameters" />
+      <module name="smart-search" options="" />
+    </option>
+  </component>
+</project>
